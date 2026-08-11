@@ -1,0 +1,4 @@
+interface:
+  display_name: "reporting-coach"
+  short_description: "优化向上汇报表达，并按六维评分标准评价。"
+  default_prompt: "Use $reporting-coach to optimize my Chinese work report expression or score it with the six-dimension rubric."
